@@ -1,0 +1,8 @@
+# EX-Future
+
+Somos  o futuro do mercado financeiro em criptomoedas, alavancando ganhos, ajudando pessoas e lucrando junto com nossos investidores.
+
+Somos um time de especialistas em mercado de criptomoedas, com trades espalhados em todo mundo.
+O nosso mundo é ajudar você a ter resultado diferenciados, dwsconpkicando o mercado e fazendo o melhor, que é ajudar pessoas.
+Seja O FUTURO,
+Seja EX FUTURE
