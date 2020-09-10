@@ -3724,12 +3724,13 @@
 		#header > .logo {
 			display: inline-block;
 			height: inherit;
-			left: 4em;
+			left: 1em;
 			line-height: inherit;
 			margin: 0;
-			padding: 5px;
+			padding: 0px;
 			position: absolute;
-			top: 0;
+			top: 13px;
+
 		}
 
 			#header > .logo a {
