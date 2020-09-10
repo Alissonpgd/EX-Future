@@ -2411,12 +2411,12 @@
 		ul.icons {
 			cursor: default;
 			list-style: none;
-			padding-left: 0;
+			padding-left: 25px;
 		}
 
 			ul.icons li {
 				display: inline-block;
-				padding: 15px 2rem 3px 10px;;
+				padding: 15px 4rem 3px 10px;;
 			}
 
 				ul.icons li:last-child {
@@ -2435,7 +2435,7 @@
 
 			ul.actions li {
 				display: inline-block;
-				padding: 0 1rem 0 0;
+				padding: 2 2rem 0 0;
 				vertical-align: middle;
 			}
 
@@ -3724,12 +3724,12 @@
 		#header > .logo {
 			display: inline-block;
 			height: inherit;
-			left: 1em;
+			left: 2em;
 			line-height: inherit;
 			margin: 0;
 			padding: 0px;
 			position: absolute;
-			top: 13px;
+			top: 20px;
 
 		}
 
@@ -3750,15 +3750,13 @@
 			}
 
 		#header > a {
-			-moz-transition: color 0.2s ease-in-out;
-			-webkit-transition: color 0.2s ease-in-out;
-			-ms-transition: color 0.2s ease-in-out;
+			
 			transition: color 0.2s ease-in-out;
 			display: inline-block;
-			padding: 0 0.75em;
-			color: inherit;
-			text-decoration: none;
+			padding: 0px 0.75em;
+			margin-right:63px;
 			color: #FFF;
+			top: 15px;
 		}
 
 			#header > a:hover {
@@ -3781,7 +3779,7 @@
 				}
 
 				#header > a[href="#menu"]:before {
-					margin: 0 0.5em 0 0;
+					margin: 4 0.75em 0 0;
 				}
 
 			#header > a + a[href="#menu"]:last-child {
@@ -3827,7 +3825,7 @@
 			box-shadow: none;
 			overflow: hidden;
 			position: absolute;
-			top: 1.5em;
+			top: 1.25em;
 			height: 80px;
 		}
 
@@ -4319,7 +4317,7 @@
 	width: 1200px;
 	margin: auto;
 	top: 0%;
-	align-items: center;
+	
 
 }
 
@@ -4327,18 +4325,18 @@
   margin-top: 0%;
   height: 10em;
   width: 600px;
-  display: flex;
+  
   align-items: center;
   justify-content: center;
-  
   float: left;		
 }
+
 .contatos-1{
 	
   margin-top: 0%;
   height: 10em;
   width: 600px;
-  display: flex;
+  
   align-items: center;
   justify-content: center;
   float: right;
@@ -4349,22 +4347,30 @@
     margin-left: auto;
     margin-right: auto;
     width: 1903px;
-    height: 344px;
+    height: 270px;
 }
+#download h1 {
+top: 30px;
+
+}
+
 #btc {
 	background-image: linear-gradient(#233b4e, #4682B4);
 	border-radius: 8px;
 	box-shadow: 3px 5px 10px #233b4e;
-	width: 330px;
+	width: 360px;
 	font-size: 22px;
+	margin-top: 35px;
 	}
 
 #btc a {
 	color: snow;
+	text-shadow: 0.1em 0.5em 0.5em #000;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 20px;
 	text-decoration: none;
+	margin-top: 50px;
 }
 #btc:hover {
 	background-image: linear-gradient(#478cc5, #80c1f7);
